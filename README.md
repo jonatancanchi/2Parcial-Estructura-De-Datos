@@ -1,1 +1,1 @@
-# 2Parcial-Programacion-Logica
+# 2Parcial-Estructura-De-Datos
